@@ -6,6 +6,11 @@ This project aims to share a NodeJs example of an Oauth2 authentication procedur
 
 ## Project installation
 
+### Requirements
+
+- nodejs >= 24
+- npm >= 11
+
 ### Dependencies installation
 
 ```
