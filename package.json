@@ -1,0 +1,18 @@
+{
+  "name": "superpdp-nodejs-oauth-example",
+  "version": "1.0.0",
+  "description": "This project aims to share a NodeJs example of an Oauth2 authentication procedure to the accredited platform (ex PDP) SuperPDP.",
+  "license": "MIT",
+  "author": "pimeo",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.15.2",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
